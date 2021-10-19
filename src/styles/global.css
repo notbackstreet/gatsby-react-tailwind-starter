@@ -1,0 +1,12 @@
+@tailwind base;
+
+@tailwind components;
+
+h2 {
+  @apply py-10 px-4 font-mono text-left text-lg font-extrabold;
+}
+h3 {
+  @apply py-10 px-4 font-mono text-left text-base font-extrabold;
+}
+
+@tailwind utilities;
