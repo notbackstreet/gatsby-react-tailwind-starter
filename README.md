@@ -12,8 +12,6 @@ Basic boilerplate code for a blog built with GatsbyJS, ReactJS, and TailwindCSS.
 
 ## Development Set Up
 
-* Clone the repo
-
 * Install dependencies
 ```shell
 npm install
